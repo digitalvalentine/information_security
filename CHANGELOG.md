@@ -1,2 +1,4 @@
+- the second lab was added
+- Create CHANGELOG.md
 - add the first hometask
 - Initial commit
