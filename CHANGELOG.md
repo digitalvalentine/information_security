@@ -1,3 +1,6 @@
+- third lab has been added
+- adding a new rar
+- new changelog
 - the second lab was added
 - Create CHANGELOG.md
 - add the first hometask
